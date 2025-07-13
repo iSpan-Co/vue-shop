@@ -1,0 +1,640 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "本日精選優惠",
+      "type": "deals",
+      "products": [
+        {
+          "id": 1,
+          "name": "PlayStation 5 DualSense 無線 控制器",
+          "brand": "Sony",
+          "image": "/assets/img/products/6.png",
+          "category": "遊戲",
+          "rating": {
+            "stars": 5,
+            "count": 67,
+            "average": 5.0
+          },
+          "price": {
+            "original": 4125,
+            "current": 2937,
+            "currency": "TWD",
+            "discount": 29
+          },
+          "features": [
+            "可選 dbrand 外觀貼紙"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 25,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 2,
+          "name": "Fitbit Sense Advanced Smartwatch with Tools for Heart Health, Stress Management & Skin Temperature",
+          "brand": "Fitbit",
+          "image": "/assets/img/products/1.png",
+          "category": "穿戴裝置",
+          "rating": {
+            "stars": 5,
+            "count": 74,
+            "average": 5.0
+          },
+          "price": {
+            "original": 1650,
+            "current": 1155,
+            "currency": "TWD",
+            "discount": 30
+          },
+          "features": [
+            "心臟健康監測",
+            "壓力管理功能",
+            "皮膚溫度追蹤"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 15,
+            "status": "限時優惠中"
+          },
+          "verified": true,
+          "dealInfo": "Deal time ends in days"
+        },
+        {
+          "id": 3,
+          "name": "蘋果手機 13 pro max-Pacific Blue, 128GB storage",
+          "brand": "Apple",
+          "image": "/assets/img/products/2.png",
+          "category": "手機",
+          "rating": {
+            "stars": 5,
+            "count": 33,
+            "average": 5.0
+          },
+          "price": {
+            "original": 29700,
+            "current": 28083,
+            "currency": "TWD",
+            "discount": 5
+          },
+          "features": [
+            "128GB 儲存空間",
+            "太平洋藍色"
+          ],
+          "colors": 5,
+          "stock": {
+            "available": true,
+            "stock": 8,
+            "status": "數量有限"
+          },
+          "verified": false,
+          "stockInfo": "Stock limited"
+        },
+        {
+          "id": 4,
+          "name": "蘋果 蘋果筆電 專業版 13 inch-M1-8/256GB-Space Gray",
+          "brand": "Apple",
+          "image": "/assets/img/products/3.png",
+          "category": "電腦",
+          "rating": {
+            "stars": 5,
+            "count": 97,
+            "average": 5.0
+          },
+          "price": {
+            "original": 42867,
+            "current": 37917,
+            "currency": "TWD",
+            "discount": 12
+          },
+          "features": [
+            "M1 晶片",
+            "256GB 固態硬碟",
+            "含 Apple Care"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 12,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 5,
+          "name": "蘋果 蘋果桌機 24\" 4K 視網膜 顯示器 M1 8 Core CPU, 7 Core GPU, 256GB SSD, Green (MJV83ZP/A) 2021",
+          "brand": "Apple",
+          "image": "/assets/img/products/4.png",
+          "category": "電腦",
+          "rating": {
+            "stars": 5,
+            "count": 134,
+            "average": 5.0
+          },
+          "price": {
+            "original": 49467,
+            "current": 46167,
+            "currency": "TWD",
+            "discount": 7
+          },
+          "features": [
+            "24 吋 4K 視網膜顯示器",
+            "M1 八核心處理器",
+            "七核心顯示晶片",
+            "256GB 固態硬碟"
+          ],
+          "colors": 7,
+          "stock": {
+            "available": true,
+            "stock": 3,
+            "status": "數量有限"
+          },
+          "verified": false,
+          "note": "Exchange with kidney"
+        },
+        {
+          "id": 6,
+          "name": "Razer Kraken v3 x 有線 7.1 Surroung Sound 遊戲 headset",
+          "brand": "Razer",
+          "image": "/assets/img/products/5.png",
+          "category": "遊戲",
+          "rating": {
+            "stars": 5,
+            "count": 59,
+            "average": 5.0
+          },
+          "price": {
+            "original": 1947,
+            "current": 1947,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "7.1 環繞音效",
+            "有線連接"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 35,
+            "status": "有庫存"
+          },
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "精選電子商品",
+      "type": "electronics",
+      "products": [
+        {
+          "id": 7,
+          "name": "Razer Kraken v3 x 有線 7.1 Surroung Sound 遊戲 headset",
+          "brand": "Razer",
+          "image": "/assets/img/products/5.png",
+          "category": "遊戲",
+          "rating": {
+            "stars": 5,
+            "count": 59,
+            "average": 5.0
+          },
+          "price": {
+            "original": 1947,
+            "current": 1947,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "7.1 環繞音效",
+            "有線連接"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 35,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 8,
+          "name": "2021 蘋果 12.9-inch iPad 專業版 (Wi‑Fi, 128GB) - Space Gray",
+          "brand": "Apple",
+          "image": "/assets/img/products/7.png",
+          "category": "平板",
+          "rating": {
+            "stars": 5,
+            "count": 13,
+            "average": 5.0
+          },
+          "price": {
+            "original": 26367,
+            "current": 26367,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "12.9 吋顯示器",
+            "僅支援 Wi-Fi",
+            "128GB 儲存空間"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 18,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 9,
+          "name": "HORI Racing Wheel Apex for PlayStation 4/3, and PC",
+          "brand": "HORI",
+          "image": "/assets/img/products/12.png",
+          "category": "遊戲",
+          "rating": {
+            "stars": 5,
+            "count": 64,
+            "average": 5.0
+          },
+          "price": {
+            "original": 9867,
+            "current": 9867,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "相容於 PlayStation 4/3 與電腦",
+            "可加購皮革套",
+            "支援 Windows 11"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 22,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 10,
+          "name": "Amazfit T-Rex 專業版 智慧手錶 with GPS, Outdoor Fitness Watch for Men, Military Standard Certified",
+          "brand": "Amazfit",
+          "image": "/assets/img/products/1.png",
+          "category": "穿戴裝置",
+          "rating": {
+            "stars": 5,
+            "count": 32,
+            "average": 5.0
+          },
+          "price": {
+            "original": 660,
+            "current": 660,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "GPS 追蹤功能",
+            "戶外健身功能",
+            "通過軍規認證"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 45,
+            "status": "限時優惠中"
+          },
+          "verified": true,
+          "dealInfo": "Deal time ends in 24 hours",
+          "wishlist": true
+        },
+        {
+          "id": 11,
+          "name": "蘋果 AirPods 專業版",
+          "brand": "Apple",
+          "image": "/assets/img/products/16.png",
+          "category": "音訊",
+          "rating": {
+            "stars": 5,
+            "count": 39,
+            "average": 5.0
+          },
+          "price": {
+            "original": 1947,
+            "current": 1947,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "主動降噪",
+            "購買 iPhone 5s 贈送",
+            "可運送至加拿大"
+          ],
+          "colors": 3,
+          "stock": {
+            "available": true,
+            "stock": 28,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 12,
+          "name": "蘋果 Magic 滑鼠 (無線, Rechargable) - Silver",
+          "brand": "Apple",
+          "image": "/assets/img/products/10.png",
+          "category": "配件",
+          "rating": {
+            "stars": 1,
+            "count": 6,
+            "average": 1.0
+          },
+          "price": {
+            "original": 2937,
+            "current": 2937,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "無線",
+            "可充電",
+            "有組合包",
+            "不含充電器"
+          ],
+          "colors": 2,
+          "stock": {
+            "available": true,
+            "stock": 15,
+            "status": "有庫存"
+          },
+          "verified": false
+        },
+        {
+          "id": 13,
+          "name": "Amazon Basics Matte Black 有線 鍵盤 - US Layout (QWERTY)",
+          "brand": "Amazon Basics",
+          "image": "/assets/img/products/8.png",
+          "category": "配件",
+          "rating": {
+            "stars": 3,
+            "count": 7,
+            "average": 3.0
+          },
+          "price": {
+            "original": 3234,
+            "current": 3234,
+            "currency": "TWD",
+            "discount": 0
+          },
+          "features": [
+            "霧面黑設計",
+            "有線連接",
+            "美式鍵盤 (QWERTY)"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 42,
+            "status": "有庫存"
+          },
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "熱門特價",
+      "type": "offers",
+      "products": [
+        {
+          "id": 14,
+          "name": "RESPAWN 200 Racing Style 遊戲 椅子, in Gray RSP 200 GRY",
+          "brand": "RESPAWN",
+          "image": "/assets/img/products/25.png",
+          "category": "家具",
+          "rating": {
+            "stars": 5,
+            "count": 0,
+            "average": 5.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 35
+          },
+          "features": [
+            "賽車風格設計",
+            "人體工學支撐"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 12,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "35% off"
+        },
+        {
+          "id": 15,
+          "name": "LEVOIT Humidifiers for Bedroom Large Room 6L Warm and Cool Mist for...",
+          "brand": "LEVOIT",
+          "image": "/assets/img/products/27.png",
+          "category": "家電",
+          "rating": {
+            "stars": 4,
+            "count": 0,
+            "average": 4.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 18
+          },
+          "features": [
+            "6 公升容量",
+            "冷熱雙噴霧",
+            "適用大型房間"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 8,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "18% off"
+        },
+        {
+          "id": 16,
+          "name": "NETGEAR Nighthawk 專業版 遊戲 XR500 Wi-Fi 路由器 with 4 Ethernet Ports...",
+          "brand": "NETGEAR",
+          "image": "/assets/img/products/26.png",
+          "category": "網路設備",
+          "rating": {
+            "stars": 5,
+            "count": 0,
+            "average": 5.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 15
+          },
+          "features": [
+            "專業電競功能",
+            "4 組網路孔",
+            "支援 Wi-Fi 6"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 15,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "15% off"
+        },
+        {
+          "id": 17,
+          "name": "Rachael Ray Cucina Bakeware 組合 Includes Nonstick Bread Baking Cookie Sheet...",
+          "brand": "Rachael Ray",
+          "image": "/assets/img/products/18.png",
+          "category": "廚房用品",
+          "rating": {
+            "stars": 3.5,
+            "count": 0,
+            "average": 3.5
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 20
+          },
+          "features": [
+            "不沾塗層",
+            "含烘焙用烤盤",
+            "內含餅乾烤盤"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 25,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "20% off"
+        },
+        {
+          "id": 18,
+          "name": "Xbox 系列 S",
+          "brand": "Microsoft",
+          "image": "/assets/img/products/17.png",
+          "category": "遊戲",
+          "rating": {
+            "stars": 5,
+            "count": 0,
+            "average": 5.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 12
+          },
+          "features": [
+            "次世代遊戲體驗",
+            "輕巧設計",
+            "數位版本"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 20,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "12% off"
+        },
+        {
+          "id": 19,
+          "name": "FURINNO 電腦 Writing 桌子, Walnut",
+          "brand": "FURINNO",
+          "image": "/assets/img/products/24.png",
+          "category": "家具",
+          "rating": {
+            "stars": 5,
+            "count": 0,
+            "average": 5.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 16
+          },
+          "features": [
+            "電腦寫字桌",
+            "胡桃木色",
+            "輕巧設計"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 18,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "16% off"
+        },
+        {
+          "id": 20,
+          "name": "Seagate Portable 2TB 外接硬碟 Portable HDD",
+          "brand": "Seagate",
+          "image": "/assets/img/products/18.png",
+          "category": "儲存裝置",
+          "rating": {
+            "stars": 4,
+            "count": 0,
+            "average": 4.0
+          },
+          "price": {
+            "original": null,
+            "current": null,
+            "currency": "TWD",
+            "discount": 15
+          },
+          "features": [
+            "2TB 容量",
+            "便攜式設計",
+            "支援 USB 3.0"
+          ],
+          "colors": 1,
+          "stock": {
+            "available": true,
+            "stock": 30,
+            "status": "特價供應"
+          },
+          "verified": false,
+          "offerInfo": "15% off"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_products": 20,
+    "total_categories": 3,
+    "currency": "TWD",
+    "last_updated": "2025-07-13",
+    "page_source": "Home-View.vue"
+  }
+}
