@@ -23960,7 +23960,7 @@ fieldset:disabled .table-list .page,
 .logo-text {
   font-size: 1.63625rem;
   color: var(--phoenix-logo-text);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.04em;
   margin-bottom: 0;
 }
@@ -32875,8 +32875,8 @@ html:not(.navbar-vertical-collapsed) .navbar-vertical.navbar-expand-xs .navbar-v
 }
 .navbar-responsive-navitems .nav-item .nav-link {
   color: var(--phoenix-tertiary-color);
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 1rem;
+  font-weight: 400;
   padding: 0 15px;
 }
 .navbar-responsive-navitems .nav-item .nav-link.active, .navbar-responsive-navitems .nav-item .nav-link:hover {

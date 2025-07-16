@@ -2715,58 +2715,16 @@
 
     const navbarEl = document.querySelector(Selector.NAVBAR);
 
-    const navbar = () => {
-      const navbarWidth = navbarEl.clientWidth;
-      const dropdown = navbarEl.querySelector(Selector.DROPDOWN);
-      const dropdownWidth = dropdown.clientWidth;
-      const navbarContainerWidth = navbarWidth - dropdownWidth;
-      const elements = navbarEl.querySelectorAll(Selector.NAV_ITEM);
-      const categoryBtn = navbarEl.querySelector(Selector.CATEGORY_BUTTON);
-      const categoryBtnWidth = categoryBtn?.clientWidth;
-
-      let totalItemsWidth = 0;
-      dropdown.style.display = 'none';
-
-      elements.forEach(item => {
-        const itemWidth = item.clientWidth;
-
-        totalItemsWidth = totalItemsWidth + itemWidth;
-
-        if (
-          totalItemsWidth + (categoryBtnWidth || 0) + dropdownWidth >
-            navbarContainerWidth &&
-          !item.classList.contains('dropdown')
-        ) {
-          dropdown.style.display = 'block';
-          item.style.display = 'none';
-          const link = item.firstChild;
-          const linkItem = link.cloneNode(true);
-
-          navbarEl.querySelector('.category-list').appendChild(linkItem);
-        }
-      });
-      const dropdownMenu = navbarEl.querySelectorAll('.dropdown-menu .nav-link');
-
-      dropdownMenu.forEach(item => {
-        item.classList.remove('nav-link');
-        item.classList.add('dropdown-item');
-      });
-    };
-
     if (navbarEl) {
       window.addEventListener('load', () => {
-        navbar();
-        // hideDropdown();
+
       });
 
       resize(() => {
         const navElements = navbarEl.querySelectorAll(Selector.NAV_ITEM);
         const dropElements = navbarEl.querySelectorAll(Selector.CATEGORY_LIST);
-
         navElements.forEach(item => item.removeAttribute('style'));
         dropElements.forEach(item => (item.innerHTML = ''));
-        navbar();
-        // hideDropdown();
       });
 
       const navbarLinks = navbarEl.querySelectorAll('.nav-link');
