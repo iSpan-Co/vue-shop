@@ -1,13 +1,9 @@
 <script setup>
-import { onMounted } from "vue"
+  import { onMounted } from 'vue'
 
-onMounted(() => {
-
-})
+  onMounted(() => {})
 </script>
 
 <template>
-
-	<div>111</div>
-
+  <div>111</div>
 </template>
